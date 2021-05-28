@@ -1,0 +1,6 @@
+let start = 100;
+result = [];
+while (start >= 0) {
+    result.push(start--);
+ }
+ console.log(result);
