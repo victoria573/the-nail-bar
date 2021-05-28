@@ -1,1 +1,1 @@
-<?php include_once(" (імя першої сторінки) .html"); ?>
+<?php include_once("index.html"); ?>
